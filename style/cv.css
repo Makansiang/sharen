@@ -139,7 +139,6 @@ flex-shrink: 0;
             grid-template-columns: repeat(2, 180px);
             gap: 5px;
             padding: 10px;
-            left: 12%;
             height: 80%;
             margin:auto;
            
